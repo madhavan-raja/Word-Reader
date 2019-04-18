@@ -1,0 +1,10 @@
+C:\Users\Madhavan\source\repos\WordReader\WordReader\bin\Debug\WordReader.exe.config
+C:\Users\Madhavan\source\repos\WordReader\WordReader\bin\Debug\WordReader.exe
+C:\Users\Madhavan\source\repos\WordReader\WordReader\bin\Debug\WordReader.pdb
+C:\Users\Madhavan\source\repos\WordReader\WordReader\obj\Debug\WordReader.csprojAssemblyReference.cache
+C:\Users\Madhavan\source\repos\WordReader\WordReader\obj\Debug\WordReader.MainForm.resources
+C:\Users\Madhavan\source\repos\WordReader\WordReader\obj\Debug\WordReader.Properties.Resources.resources
+C:\Users\Madhavan\source\repos\WordReader\WordReader\obj\Debug\WordReader.csproj.GenerateResource.cache
+C:\Users\Madhavan\source\repos\WordReader\WordReader\obj\Debug\WordReader.csproj.CoreCompileInputs.cache
+C:\Users\Madhavan\source\repos\WordReader\WordReader\obj\Debug\WordReader.exe
+C:\Users\Madhavan\source\repos\WordReader\WordReader\obj\Debug\WordReader.pdb
